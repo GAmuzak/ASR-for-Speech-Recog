@@ -18,8 +18,8 @@ def UncommonWords(A, B):
  
 
 # Driver Code 
-file1=open("/home/harshit/Desktop/km.txt")
-file2=open("/home/harshit/Desktop/km1.txt")
+file1=open("INPUT PATH HERE")#input path should look like this "/home/user/Desktop/km.txt"
+file2=open("INPUT PATH HERE")#input path should look like this "/home/user/Desktop/km1.txt"
 
 A = file1.read()
 B = file2.read()
