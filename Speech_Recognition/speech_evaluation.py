@@ -15,7 +15,7 @@ def UncommonWords(A, B):
 	# return required list of words 
 	return [word for word in count if count[word] == 1] 
 
-
+ 
 
 # Driver Code 
 file1=open("/home/harshit/Desktop/km.txt")
